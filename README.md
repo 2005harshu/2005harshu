@@ -76,7 +76,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=2005harshu&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=2005harshu&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=2005harshu&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -108,3 +108,5 @@
 > *“First make it work. Then make it right. Then make it fast.”*
 
 ⭐ **If you like my work, consider starring my repositories!**
+
+
